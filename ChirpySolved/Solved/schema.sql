@@ -8,3 +8,4 @@ CREATE TABLE `chirps` (
   `created_at` DATETIME NOT NULL,
 
   PRIMARY KEY ( `id` ) );
+  -- oh boy, Rick
